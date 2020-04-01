@@ -3,7 +3,7 @@ package web
 import (
 	easygin "github.com/ajdwfnhaps/easy-gin"
 	mw "github.com/ajdwfnhaps/easy-gin/middleware"
-	"github.com/ajdwfnhaps/easy-gin/sample/routers/api"
+	"github.com/ajdwfnhaps/easy-go/routers/api"
 )
 
 //UseEasyGinPlugin 使用easy-gin插件

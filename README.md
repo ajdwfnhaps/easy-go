@@ -1,5 +1,5 @@
 # easy-go
-easy-go集成了自封装的各种easy系列包应用的项目，为方便各种场景应用能快速开发，作为示例性项目提供参考
+easy-go集成了自封装的各种easy系列包应用的项目，为方便各种场景应用能快速开发，作为示例性项目仅提供参考
 
 - 集成easy-gin
 - 集成easy-logrus
@@ -40,6 +40,8 @@ func handleSignal() {
 }
 
 ```
+
+[详细代码参考](main.go)
 
 ### easy-gin 介绍
 [了解更多](https://github.com/ajdwfnhaps/easy-gin)
